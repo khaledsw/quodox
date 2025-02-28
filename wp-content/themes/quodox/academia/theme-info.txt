@@ -1,0 +1,23 @@
+/*
+Theme Name:         Academia
+Theme URI:          http://gmswebdesign.net/quodox/
+Description:        Academia is a is the best WordPress theme for the Education & Learning Center - for educational organizations, who sell courses and organize classes locally.
+Version:            1.5
+Author:             g5plus
+Author URI:         http://gmstechuk.com/
+*/
+
+/**
+ * Table of Contents:
+ *
+ * 1.0 - Core
+ * 2.0 - Template
+ * 3.0 - Header
+ * 4.0 - Footer
+ * 5.0 - Widget
+ * 6.0 - Blog
+ * 7.0 - Woocommerce
+ * 8.0 - ShortCode
+ * 9.0 - Color
+ * ----------------------------------------------------------------------------
+ */
